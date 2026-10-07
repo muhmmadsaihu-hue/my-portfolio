@@ -1,0 +1,33 @@
+body {
+    background-color: wheat;
+}
+.skill-card {
+    background-color: #1e293b;
+    color: white;
+    padding: 20px;
+    margin: 15px;
+    border: 2px solid cyan;
+    border-radius: 10px;
+}
+.profile img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+/* Block element */
+.about-card {
+    display: block;
+    background-color: #1e293b;
+    color: white;
+    padding: 20px;
+    margin: 20px 0;
+    border: 2px solid cyan;
+    border-radius: 10px;
+}
+
+/* Inline element */
+.highlight {
+    display: inline;
+    color: cyan;
+    font-weight: bold;
+}
