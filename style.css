@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 body {
     background-color: hsl(189, 76%, 77%);
 }
 .skill-card {
-    background-color: #1e293b;
+    background-color: lab(71.99% -33.06 -15.73);
     color: white;
     padding: 20px;
     margin: 15px;
@@ -31,7 +31,8 @@ body {
     display: inline;
     color: cyan;
     font-weight: bold;
-=======
+}
+
 body {
     background-color: wheat;
 }
